@@ -1,5 +1,6 @@
 # TinNews
 Tinder-like News Mobile App <br />
+
 •Designed the Tinder Flavor News app based on MVP architectural pattern and received 90% positive user feedback <br />
 •Implemented ViewPager with BottomBar that holds News/Save/Setting Tabs’ state in the MainActivity concurrently <br />
 •Utilized Mindorks’s PlaceHolderView to support swipe gestures for liking/disliking the news <br />
